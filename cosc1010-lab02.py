@@ -47,6 +47,11 @@ print(f"x / y = {x/y}")
     # It is done using the + operator
     # Create three variables:
         # first_name, which is your first name 
+first_name = "Rylan"
         # last_name, which is your last name
+last_name = "Galloway"
         # space, which is a space character 
+space = " "
     # Use string concatenation to print out your full name 
+fullname = {first_name + space + last_name}
+print(fullname)
